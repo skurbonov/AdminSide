@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#ecebe8</color>
+    <color name="btnSignUp">#303F9F</color>
+    <color name="btnSignActive">#A9d440</color>
+    <color name="buttonColor">#ffffff</color>
+    <color name="logIn">#000000</color>
+    <color name="buttontextblack">#ffffff</color>
+    <color name="basecolor">#828282</color>
+    <color name="loginbutton2">#3b5998</color>
+    <color name="overplayBackground">#7f333639</color>
+    <color name="overplayActionBar">#0e0d0e</color>
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "577417300461",
+    "firebase_url": "https://prototypesforposter.firebaseio.com",
+    "project_id": "prototypesforposter",
+    "storage_bucket": "prototypesforposter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577417300461:android:f4a42d2990d1c8ce",
+        "android_client_info": {
+          "package_name": "com.example.sardorbek.adminside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577417300461-j22emfj5ee28hv701iae4vr37d1ur8da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sardorbek.adminside",
+            "certificate_hash": "5a4823f6e6f3a499192bbda9a797b4923ba20f25"
+          }
+        },
+        {
+          "client_id": "577417300461-n163nn1t70dbuo548ftgea58kbg31492.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Ol91yXwMANhLIJcCq-quyPKsWUU0ChQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577417300461-n163nn1t70dbuo548ftgea58kbg31492.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577417300461:android:ea603be5f0afeff5",
+        "android_client_info": {
+          "package_name": "com.example.sardorbek.ptototypes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577417300461-g9b9vbpgulgd2u80r62lmkahfhuemgat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sardorbek.ptototypes",
+            "certificate_hash": "5a4823f6e6f3a499192bbda9a797b4923ba20f25"
+          }
+        },
+        {
+          "client_id": "577417300461-n163nn1t70dbuo548ftgea58kbg31492.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Ol91yXwMANhLIJcCq-quyPKsWUU0ChQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577417300461-n163nn1t70dbuo548ftgea58kbg31492.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

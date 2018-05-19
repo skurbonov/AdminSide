@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context="com.example.sardorbek.adminside.LogIn">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginLeft="120dp"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/txtLogIn"
+            android:text="Log In"
+            android:textSize="42sp"
+            android:layout_marginLeft="60dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtIdNumber"
+            android:hint="@string/idnumberhint"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/buttontextblack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_maxCharacters="11"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtPassword"
+            android:hint="@string/passwordhint"
+            android:layout_centerHorizontal="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/buttontextblack"
+            android:inputType="textPassword"
+            app:met_baseColor="@android:color/darker_gray"
+            app:met_floatingLabel="highlight"
+            app:met_maxCharacters="11"
+            app:met_primaryColor="@android:color/darker_gray"
+            app:met_singleLineEllipsis="true"
+            />
+        <info.hoang8f.widget.FButton
+            android:id="@+id/btn_login"
+            android:text="Log In"
+            android:textColor="@color/buttonColor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            app:buttonColor="@color/loginbutton2"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
